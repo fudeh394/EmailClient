@@ -1,0 +1,93 @@
+﻿Installing assembly 'C:\NIBSS\NET\Nibss.Net.Utilities\Nibss.Net,TaskSchedular\bin\Debug\Nibss.Net.TaskSchedular.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\NIBSS\NET\Nibss.Net.Utilities\Nibss.Net,TaskSchedular\bin\Debug\Nibss.Net.TaskSchedular.exe
+   logfile = C:\NIBSS\NET\Nibss.Net.Utilities\Nibss.Net,TaskSchedular\bin\Debug\Nibss.Net.TaskSchedular.InstallLog
+Rolling back assembly 'C:\NIBSS\NET\Nibss.Net.Utilities\Nibss.Net,TaskSchedular\bin\Debug\Nibss.Net.TaskSchedular.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\NIBSS\NET\Nibss.Net.Utilities\Nibss.Net,TaskSchedular\bin\Debug\Nibss.Net.TaskSchedular.exe
+   logfile = C:\NIBSS\NET\Nibss.Net.Utilities\Nibss.Net,TaskSchedular\bin\Debug\Nibss.Net.TaskSchedular.InstallLog
+Installing assembly 'C:\NIBSS\NET\Nibss.Net.Utilities\Nibss.Net,TaskSchedular\bin\Debug\Nibss.Net.TaskSchedular.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\NIBSS\NET\Nibss.Net.Utilities\Nibss.Net,TaskSchedular\bin\Debug\Nibss.Net.TaskSchedular.exe
+   logfile = C:\NIBSS\NET\Nibss.Net.Utilities\Nibss.Net,TaskSchedular\bin\Debug\Nibss.Net.TaskSchedular.InstallLog
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\NIBSS\NET\Nibss.Net.Utilities\Nibss.Net,TaskSchedular\bin\Debug\Nibss.Net.TaskSchedular.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\NIBSS\NET\Nibss.Net.Utilities\Nibss.Net,TaskSchedular\bin\Debug\Nibss.Net.TaskSchedular.exe
+   logfile = C:\NIBSS\NET\Nibss.Net.Utilities\Nibss.Net,TaskSchedular\bin\Debug\Nibss.Net.TaskSchedular.InstallLog
+Restoring event log to previous state for source Service1.
+Installing assembly 'C:\NIBSS\NET\Nibss.Net.Utilities\Nibss.Net,TaskSchedular\bin\Debug\Nibss.Net.TaskSchedular.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\NIBSS\NET\Nibss.Net.Utilities\Nibss.Net,TaskSchedular\bin\Debug\Nibss.Net.TaskSchedular.InstallLog
+   assemblypath = C:\NIBSS\NET\Nibss.Net.Utilities\Nibss.Net,TaskSchedular\bin\Debug\Nibss.Net.TaskSchedular.exe
+Rolling back assembly 'C:\NIBSS\NET\Nibss.Net.Utilities\Nibss.Net,TaskSchedular\bin\Debug\Nibss.Net.TaskSchedular.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\NIBSS\NET\Nibss.Net.Utilities\Nibss.Net,TaskSchedular\bin\Debug\Nibss.Net.TaskSchedular.InstallLog
+   assemblypath = C:\NIBSS\NET\Nibss.Net.Utilities\Nibss.Net,TaskSchedular\bin\Debug\Nibss.Net.TaskSchedular.exe
+Installing assembly 'C:\NIBSS\NET\Nibss.Net.Utilities\Nibss.Net,TaskSchedular\bin\Debug\Nibss.Net.TaskSchedular.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\NIBSS\NET\Nibss.Net.Utilities\Nibss.Net,TaskSchedular\bin\Debug\Nibss.Net.TaskSchedular.InstallLog
+   assemblypath = C:\NIBSS\NET\Nibss.Net.Utilities\Nibss.Net,TaskSchedular\bin\Debug\Nibss.Net.TaskSchedular.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\NIBSS\NET\Nibss.Net.Utilities\Nibss.Net,TaskSchedular\bin\Debug\Nibss.Net.TaskSchedular.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\NIBSS\NET\Nibss.Net.Utilities\Nibss.Net,TaskSchedular\bin\Debug\Nibss.Net.TaskSchedular.InstallLog
+   assemblypath = C:\NIBSS\NET\Nibss.Net.Utilities\Nibss.Net,TaskSchedular\bin\Debug\Nibss.Net.TaskSchedular.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'C:\NIBSS\NET\Nibss.Net.Utilities\Nibss.Net,TaskSchedular\bin\Debug\Nibss.Net.TaskSchedular.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\NIBSS\NET\Nibss.Net.Utilities\Nibss.Net,TaskSchedular\bin\Debug\Nibss.Net.TaskSchedular.InstallLog
+   assemblypath = C:\NIBSS\NET\Nibss.Net.Utilities\Nibss.Net,TaskSchedular\bin\Debug\Nibss.Net.TaskSchedular.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\NIBSS\NET\Nibss.Net.Utilities\Nibss.Net,TaskSchedular\bin\Debug\Nibss.Net.TaskSchedular.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\NIBSS\NET\Nibss.Net.Utilities\Nibss.Net,TaskSchedular\bin\Debug\Nibss.Net.TaskSchedular.InstallLog
+   assemblypath = C:\NIBSS\NET\Nibss.Net.Utilities\Nibss.Net,TaskSchedular\bin\Debug\Nibss.Net.TaskSchedular.exe
+Installing assembly 'C:\NIBSS\NET\Nibss.Net.Utilities\Nibss.Net,TaskSchedular\bin\Debug\Nibss.Net.TaskSchedular.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\NIBSS\NET\Nibss.Net.Utilities\Nibss.Net,TaskSchedular\bin\Debug\Nibss.Net.TaskSchedular.InstallLog
+   assemblypath = C:\NIBSS\NET\Nibss.Net.Utilities\Nibss.Net,TaskSchedular\bin\Debug\Nibss.Net.TaskSchedular.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\NIBSS\NET\Nibss.Net.Utilities\Nibss.Net,TaskSchedular\bin\Debug\Nibss.Net.TaskSchedular.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\NIBSS\NET\Nibss.Net.Utilities\Nibss.Net,TaskSchedular\bin\Debug\Nibss.Net.TaskSchedular.InstallLog
+   assemblypath = C:\NIBSS\NET\Nibss.Net.Utilities\Nibss.Net,TaskSchedular\bin\Debug\Nibss.Net.TaskSchedular.exe
+Restoring event log to previous state for source Service1.
+Uninstalling assembly 'C:\NIBSS\NET\Nibss.Net.Utilities\Nibss.Net,TaskSchedular\bin\Debug\Nibss.Net.TaskSchedular.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\NIBSS\NET\Nibss.Net.Utilities\Nibss.Net,TaskSchedular\bin\Debug\Nibss.Net.TaskSchedular.InstallLog
+   assemblypath = C:\NIBSS\NET\Nibss.Net.Utilities\Nibss.Net,TaskSchedular\bin\Debug\Nibss.Net.TaskSchedular.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\NIBSS\NET\Nibss.Net.Utilities\Nibss.Net,TaskSchedular\bin\Debug\Nibss.Net.TaskSchedular.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\NIBSS\NET\Nibss.Net.Utilities\Nibss.Net,TaskSchedular\bin\Debug\Nibss.Net.TaskSchedular.InstallLog
+   assemblypath = C:\NIBSS\NET\Nibss.Net.Utilities\Nibss.Net,TaskSchedular\bin\Debug\Nibss.Net.TaskSchedular.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\NIBSS\NET\Nibss.Net.Utilities\Nibss.Net,TaskSchedular\bin\Debug\Nibss.Net.TaskSchedular.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\NIBSS\NET\Nibss.Net.Utilities\Nibss.Net,TaskSchedular\bin\Debug\Nibss.Net.TaskSchedular.InstallLog
+   assemblypath = C:\NIBSS\NET\Nibss.Net.Utilities\Nibss.Net,TaskSchedular\bin\Debug\Nibss.Net.TaskSchedular.exe
